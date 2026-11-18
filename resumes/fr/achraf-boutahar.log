@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.24.0 (TeX Live 2026)  (format=lualatex 2026.4.25)  15 NOV 2026 22:50
+This is LuaHBTeX, Version 1.24.0 (TeX Live 2026)  (format=lualatex 2026.4.25)  17 NOV 2026 17:25
  restricted system commands enabled.
  file:line:error style messages enabled.
 **/Users/achraf/Projects/PORTOFLIO/portfolio-assets/resumes/fr/achraf-boutahar.tex
@@ -908,36 +908,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 19--19
  []
 
 (./section2_experience.tex
-Underfull \hbox (badness 10000) in paragraph at lines 18--18
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 39--39
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 55--55
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 72--72
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 90--90
-
- []
-
-
-Overfull \hbox (4.48311pt too wide) in alignment at lines 2--92
+Overfull \hbox (4.48311pt too wide) in alignment at lines 2--96
  [][] 
  []
 
-./section2_experience.tex:92: ignored: Infinite glue shrinkage found in box being split [1
+./section2_experience.tex:96: ignored: Infinite glue shrinkage found in box being split [1
 
 {/usr/local/texlive/2026basic/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]) (./section4_skills.tex) (./section3_education.tex) (./section5_languages.tex)
 Overfull \hbox (4.08311pt too wide) in paragraph at lines 2--25
@@ -955,15 +930,15 @@ Package rerunfilecheck Info: File `achraf-boutahar.out' has not changed.
 
 Here is how much of LuaTeX's memory you used:
  31364 strings out of 476076
- 305409,1373583 words of node,token memory allocated
+ 305408,1373583 words of node,token memory allocated
  748 words of node memory still in use:
    4 hlist, 1 vlist, 1 rule, 13 glue, 3 kern, 1 penalty, 2 glyph, 51 attribute, 75 glue_spec, 11 attribute_list, 2 write nodes
-   avail lists: 1:6,2:24143,3:6710,4:368,5:2856,6:236,7:18865,8:2,9:3190,10:14,11:1510
+   avail lists: 1:7,2:23399,3:6424,4:388,5:3017,6:246,7:19770,8:3,9:3134,10:13,11:1625
  53048 multiletter control sequences out of 65536+600000
  51 fonts using 7852015 bytes
  117i,12n,117p,1264b,919s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2026basic/texmf-dist/fonts/opentype/public/fontawesome/FontAwesome.otf><./fonts/SourceSansPro-Regular.otf><./fonts/SourceSansPro-Light.otf>
-Output written on achraf-boutahar.pdf (2 pages, 33147 bytes).
+Output written on achraf-boutahar.pdf (2 pages, 32596 bytes).
 
 PDF statistics: 67 PDF objects out of 1000 (max. 8388607)
  53 compressed objects within 1 object stream
