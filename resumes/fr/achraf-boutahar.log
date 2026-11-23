@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.24.0 (TeX Live 2026)  (format=lualatex 2026.4.25)  21 NOV 2026 10:49
+This is LuaHBTeX, Version 1.24.0 (TeX Live 2026)  (format=lualatex 2026.4.25)  23 NOV 2026 15:03
  restricted system commands enabled.
  file:line:error style messages enabled.
 **/Users/achraf/Projects/PORTOFLIO/portfolio-assets/resumes/fr/achraf-boutahar.tex
@@ -930,15 +930,15 @@ Package rerunfilecheck Info: File `achraf-boutahar.out' has not changed.
 
 Here is how much of LuaTeX's memory you used:
  31364 strings out of 476076
- 305426,1373583 words of node,token memory allocated
+ 305432,1373583 words of node,token memory allocated
  779 words of node memory still in use:
    4 hlist, 1 vlist, 1 rule, 15 glue, 3 kern, 1 penalty, 2 glyph, 56 attribute, 76 glue_spec, 12 attribute_list, 2 write nodes
-   avail lists: 1:10,2:24611,3:6638,4:394,5:3080,6:249,7:20222,8:2,9:3197,10:14,11:1670
+   avail lists: 1:13,2:24905,3:6737,4:394,5:3089,6:249,7:20300,8:2,9:3227,10:14,11:1673
  53048 multiletter control sequences out of 65536+600000
  51 fonts using 7852015 bytes
  117i,12n,117p,1264b,919s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2026basic/texmf-dist/fonts/opentype/public/fontawesome/FontAwesome.otf><./fonts/SourceSansPro-Regular.otf><./fonts/SourceSansPro-Light.otf>
-Output written on achraf-boutahar.pdf (2 pages, 33206 bytes).
+Output written on achraf-boutahar.pdf (2 pages, 33369 bytes).
 
 PDF statistics: 67 PDF objects out of 1000 (max. 8388607)
  53 compressed objects within 1 object stream
